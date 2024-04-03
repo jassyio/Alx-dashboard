@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 70vh;
+    height: 70vh;
+}
+
+h1 {
+    color: rgb(207, 5, 5);
+    margin-left: 35px; /* Adjust margin as needed */
+    font-size: 4em;
+
+}
+hr {
+    background-color: rgb(218, 5, 5); /* Set the border color to red */
+    border-width: 3px; /* Set the border width to 2 pixels */
+    border: 3px solid rgb(226, 7, 7); /* Set a solid red border with a thickness of 3px */
+
+}
+footer {
+    font-style: italic; /* Italicize the text in the footer */
+    text-align: center;
+}
+p {
+    font-size: 1.2em; /* Set the font size of the <p> element (adjust as needed) */
+}
